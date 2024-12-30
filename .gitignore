@@ -1,0 +1,7 @@
+.vscode/
+build/
+CMakeFiles/
+CMakeCache.txt
+launch.exe
+uWindowCapture.log
+launcher_comfig.jsom
