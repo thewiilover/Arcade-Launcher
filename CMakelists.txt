@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_C_COMPILER "C:/Users/berts/Downloads/w64devkit/bin/gcc.exe")
+set(CMAKE_CXX_COMPILER "C:/Users/berts/Downloads/w64devkit/bin/g++.exe")
+# Set the project name
+project(ArcadeGUI)
+
+# Add the executable
+add_executable(launch launch.c)
+
